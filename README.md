@@ -8,11 +8,11 @@
 
 
 - 😎 O mnie
-- 1. Ile mam lat ? 1*
-- 2. Jak masz na imie? Kacper
-- 3. Skąd jesteś? Kiedyś powiem
-- 4. Masz rodzeństwo? Tak 2 braci
-- 5. Skąd pomysł na nazwe? Dużo oglądania telewizjii.
+- Ile mam lat ? 1*
+- Jak masz na imie? Kacper
+- Skąd jesteś? Kiedyś powiem
+- Masz rodzeństwo? Tak 2 braci
+- Skąd pomysł na nazwe? Dużo oglądania telewizjii.
 
 <!---
 STRONA JEST TESTOWA!
